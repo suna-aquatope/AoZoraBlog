@@ -1,2 +1,2 @@
 # AoZoraBlog
-This is css for my blog
+This is css & javascript for my blog
